@@ -3,7 +3,7 @@
 //  UniversallyFramework
 //
 //  Created by lxin on 2018/5/9.
-//  Copyright © 2018年 CDITV. All rights reserved.
+//  Copyright © 2018年 lxin. All rights reserved.
 //
 
 #import "LXVerticalTabPagerController.h"
